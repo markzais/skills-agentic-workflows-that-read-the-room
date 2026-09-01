@@ -15,6 +15,8 @@ engine: copilot
 
 tools:
   github: {}
+  edit: {}
+  web-fetch: {}
 
 network:
   allowed:
